@@ -1,0 +1,40 @@
+ /*Todo el fondo de la página llevará el siguiente estilo:*/
+     
+      body{
+              background-color: #FFFAF0;
+             }
+/*A los encabezados a aplicarles estos dos estilos respectivamente:*/
+     h1{
+          color: #800080;
+          font: 35px Arial, sans-serif; 
+         }
+
+    h2{ 
+         color: #C71585;
+         font: 30px  Arial, sans-serif;
+        }
+
+  h4{
+         color:#757575;
+         font: bold  20px  Arial, sans-serif; 
+    }
+/*Los elementos p y li llevarán estos estilos:*/
+    p{ 
+      color:#757575;
+      font:18px Georgia, sans-serif;
+      }
+    li{ 
+      color:#757575;
+      font:18px Georgia, sans-serif;
+      }
+
+/*La imagen del documento llevará el siguiente estilo:*/   
+      
+    img{
+          border:  #800080 3px solid;
+          }
+/*A los enlaces acabados en ".org" se les aplicará el siguiente estilo:*/
+
+    a[href$= ".org"]{
+     color: #9370DB;
+      }
